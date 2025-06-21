@@ -50,3 +50,15 @@
   -fx-font-weight: normal;
   -fx-effect: none;
 }
+
+.tab-pane .tab-header-background {
+  -fx-background-color: #000000;
+}
+
+.tab-pane .tab {
+  -fx-background-color: #000000;
+}
+
+.tab-pane .tab-label {
+  -fx-text-fill: #00ff99;
+}
