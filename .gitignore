@@ -1,0 +1,30 @@
+# Java class files
+*.class
+
+# JavaFX SDK
+javafx-sdk-21.0.3/
+javafx-sdk-21.0.3-mac-aarch64.zip
+
+# Maven target directory
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Logs
+*.log
+
+# Output files
+*.out
+*.tmp
+
+# Other archives
+*.zip
+*.tar.gz 
